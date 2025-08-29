@@ -1,0 +1,18 @@
+.hero-bg {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+        url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%234A90E2" width="1200" height="600"/><path fill="%23ffffff" fill-opacity="0.1" d="M0,400 Q300,200 600,300 T1200,400 L1200,600 L0,600 Z"/></svg>');
+    background-size: cover;
+    background-position: center;
+}
+
+.card-shadow {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.logo-gradient {
+    background: linear-gradient(135deg, #10B981, #3B82F6);
+}
+
+.footer-gradient {
+    background: linear-gradient(135deg, #1E3A8A, #0F172A);
+}
